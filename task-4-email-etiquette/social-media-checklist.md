@@ -4,7 +4,7 @@
 
 ---
 
-## ✅ Do's
+## Do's
 
 1. **Think before you post** — Ask yourself: would you be comfortable if your professor, parent, or future employer saw this? If not, don't post it.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## ❌ Don'ts
+## Don'ts
 
 1. **Don't share personal information publicly** — Avoid posting your phone number, home address, college ID, or bank details on any social media platform.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Remember
+## Remember
 
 > Your digital footprint is permanent. What you post today can be found years later by employers, institutions, and colleagues. Build a digital identity you are proud of.
 
