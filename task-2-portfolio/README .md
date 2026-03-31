@@ -1,6 +1,6 @@
 # Hi there, I'm Parth Kaushik 
 
-## 🎓 About Me
+## About Me
 
 |Field|Details|
 |-|-|
