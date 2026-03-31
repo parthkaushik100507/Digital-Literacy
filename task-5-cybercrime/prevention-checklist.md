@@ -6,7 +6,7 @@
 
 ---
 
-## 🔐 UPI & Financial Safety
+## UPI & Financial Safety
 
 1. **Never share your UPI PIN with anyone** — not even bank representatives or customer care agents. Your PIN authorises payments. No legitimate service ever asks for it.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛡️ Account & Device Security
+## Account & Device Security
 
 4. **Enable two-factor authentication (2FA)** on all banking and payment apps. Use biometric lock wherever available.
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 Online Safety
+## Online Safety
 
 7. **Never click on links in SMS or WhatsApp messages** claiming to be from your bank. Always access banking services directly through official apps or websites.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚨 Report Cybercrime
+## Report Cybercrime
 
 If you have been scammed or suspect fraudulent activity:
 
